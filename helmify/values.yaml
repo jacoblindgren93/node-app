@@ -1,0 +1,5 @@
+appName: node-app
+
+nodeImage:
+  name: jalle1337/node-app
+  tag: latest
